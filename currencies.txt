@@ -1,0 +1,34 @@
+﻿
+AUD,Australian Dollar,$
+BGN,Bulgaria Lev,Лв
+BRL,Brazil Real,R$
+CAD,Canada Dollar,$
+CHF,Switzerland Franc,CHF
+CNY,China Yuan Renminbi,¥
+CZK,Czech Republic Koruna,Kc
+DKK,Denmark Krone,kr
+GBP,Great Britain Pound,£
+HKD,Hong Kong Dollar,$
+HRK,Croatia Kuna,kn
+HUF,Hungary Forint,Ft
+IDR,Indonesia Rupiah,Rp
+ILS,Israel Shekel,₪
+INR,India Rupee,I
+JPY,Japan Yen,¥
+KRW,Korea (South) Won,₩
+LTL,Lithuanian Litas,Lt
+MXN,Mexico Peso,L$
+MYR,Malaysia Ringgit,RM
+NOK,Norway Krone,kr
+NZD,New Zealand Dollar,$
+PHP,Philippines Peso,₱
+PLN,Poland Zloty,zl
+RON,Romania New Leu,lei
+RUB,Russia Ruble,py6
+SEK,Sweden Krona,KR
+SGD,Singapore Dollar,$
+THB,Thailand Baht,฿
+TRY,Turkey Lira,t
+USD,United States Dollar,$
+ZAR,South Africa Rand,R
+EUR,Euro Member Countries,€
